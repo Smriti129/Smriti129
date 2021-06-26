@@ -1,4 +1,4 @@
-# Hello, Peeps! <img src="https://raw.githubusercontent.com/Smriti129/Smriti129/wave.gif" width="30px">
+# Hello, Peeps! <img src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/wave.gif">
 Myself, Smriti Srivastava and I'm a Web development Enthusiast. Currently, a 3rd year B.Tech student in Computer Science and Engineering. 
 ### Hi there 👋
 
