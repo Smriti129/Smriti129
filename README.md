@@ -2,10 +2,10 @@
 Myself, Smriti Srivastava and I'm a Web development Enthusiast. Currently, a 3rd year B.Tech student in Computer Science and Engineering. 
 
 <a href="https://twitter.com/shining_sun_126">
-  <img align="left" alt="Smriti Srivastava | Twitter" width="21px" src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/twitter.gif" />
+  <img align="center" alt="Smriti Srivastava | Twitter" width="30px" src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/twitter-unscreen.gif" />
 </a>
-<a href="https://twitter.com/shining_sun_126">
-  <img align="left" alt="Smriti Srivastava | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/linkedin.gif" />
+<a href="https://www.linkedin.com/in/smriti-srivastava-97a9871a1/">
+  <img align="center" alt="Smriti Srivastava | LinkedIn" width="30px" src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/linkedin-unscreen.gif" />
 </a>
 
 <br/>
@@ -21,15 +21,4 @@ Myself, Smriti Srivastava and I'm a Web development Enthusiast. Currently, a 3rd
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti129&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api?username=Smriti129&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png&color=87CEFA (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/shining_sun_126?s=08
-[3]: https://www.linkedin.com/in/smriti-srivastava-97a9871a1/
 
