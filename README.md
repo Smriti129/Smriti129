@@ -1,6 +1,16 @@
 # Hello, Peeps! <img src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/wave.gif" width="30px">
 Myself, Smriti Srivastava and I'm a Web development Enthusiast. Currently, a 3rd year B.Tech student in Computer Science and Engineering. 
 
+<a href="https://twitter.com/shining_sun_126">
+  <img align="left" alt="Smriti Srivastava | Twitter" width="21px" src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/twitter.gif" />
+</a>
+<a href="https://twitter.com/shining_sun_126">
+  <img align="left" alt="Smriti Srivastava | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/linkedin.gif" />
+</a>
+
+<br/>
+<br/>
+
 ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
