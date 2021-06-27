@@ -1,7 +1,7 @@
 # ![smriti srivastava header](https://raw.githubusercontent.com/Smriti129/Smriti129/main/header_new.png)
 
 # Hello, Peeps! <img src="https://raw.githubusercontent.com/Smriti129/Smriti129/main/wave.gif" width="30px">
-<p font-size="22px">I'm a third year B.Tech student in Computer Science and Communication Engineering at KIIT University, Bhubaneswar.</p> 
+### I'm a third year B.Tech student in Computer Science and Communication Engineering at KIIT University, Bhubaneswar. I love reading books and 
 
 ## Social Media 📱
 <a href="https://twitter.com/shining_sun_126">
